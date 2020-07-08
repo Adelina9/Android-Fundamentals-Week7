@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Assignment6</string>
+    <string name="board_games">Board games</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="open_datepicker">Open DatePicker</string>
+    <string name="open_timepicker">Open TimePicker</string>
+</resources>
